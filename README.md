@@ -1,5 +1,5 @@
 # Game development checklist
- - [] Create a player 
+ - [X] Create a player 
  - [] Shoot projectiles
  - [] Create emenies
  - [] Detect collision on enemy / p. hit
@@ -14,4 +14,6 @@
  - [] Add start Button
 
    # On going and encountered issue
+    1.1 unable to show the context/player 
    # Resolution
+    1.1 instead of constructor I wrote consctructor
